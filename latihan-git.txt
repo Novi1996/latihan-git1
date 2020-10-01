@@ -2,3 +2,5 @@ Latihan git
 -Membuat akun github
 -Mengetahui command dasar GIT
 -Integrasi GIT
+-Melakukan praktik GIT
+-Melakukan kolaborasi GIT sebagai tugas
